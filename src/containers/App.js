@@ -1,10 +1,9 @@
-import Preinicio from "../components/Preinicio";
-
+import Profile from "../components/Profile";
 
 function App() {
   return (
     <div className="App">
-  <Preinicio/>
+      <Profile/>
     </div>
   );
 }
