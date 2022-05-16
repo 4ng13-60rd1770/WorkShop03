@@ -1,0 +1,12 @@
+*{
+    margin:0px;
+    padding:0px;
+    width: 375px;
+    background-image: url(https://res.cloudinary.com/dgzfc4clj/image/upload/v1652716749/REACT/WORKSHOP-ECOMMERCE/Img_kncphd.png);
+}
+h1{
+    font-family: 'Inter', sans-serif;
+    position: absolute;
+    color: #FFF;
+    margin-bottom: -5em;
+}

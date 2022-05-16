@@ -1,7 +1,10 @@
+import Preinicio from "../components/Preinicio";
+
+
 function App() {
   return (
     <div className="App">
-      Hola mundo
+  <Preinicio/>
     </div>
   );
 }
