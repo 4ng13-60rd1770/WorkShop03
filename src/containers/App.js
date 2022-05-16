@@ -1,4 +1,4 @@
-import Carousel from "../component/Carousel";
+import Carousel from "../components/Carousel";
 
 function App() {
   return (
