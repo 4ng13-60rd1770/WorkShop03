@@ -1,9 +1,9 @@
-import Profile from "../components/Profile";
+import Carousel from "../components/Carousel";
 
 function App() {
   return (
     <div className="App">
-      <Profile/>
+     <Carousel/> 
     </div>
   );
 }
