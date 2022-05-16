@@ -1,7 +1,9 @@
+import Carousel from "../component/Carousel";
+
 function App() {
   return (
     <div className="App">
-      Hola mundo
+     <Carousel/> 
     </div>
   );
 }
