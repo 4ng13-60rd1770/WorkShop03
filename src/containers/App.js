@@ -1,10 +1,12 @@
+import { Provider } from "react-redux";
 import Profile from "../components/Profile";
+import { store } from "../redux/store/store";
 
 function App() {
   return (
-    <div className="App">
+    <Provider store={ store }>
       <Profile/>
-    </div>
+      </Provider>
   );
 }
 
